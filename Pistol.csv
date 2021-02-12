@@ -1,0 +1,24 @@
+~~~~~~~~~~~~~~
+Type          Guardian
+Float value   0.3
+Max Bullets   12
+Paint         
+Rare          low
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+Type          Mechano-Indasries
+Float value   0.02
+Max Bullets   7
+Paint         
+Rare          high
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+Type          Blue
+Float value   0.23
+Max Bullets   20
+Paint         
+Rare          middle
+~~~~~~~~~~~~~~
+
